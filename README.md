@@ -1,7 +1,7 @@
 # Competitive Programming Workshop
 
 View this text in a better format?<br>
-<a href="https://tanmayhinge.github.io/csi-competitive-workshop/">https://tanmayhinge.github.io/csi-competitive-workshop/</a>
+<a href="https://tanmayhinge.github.io/competitive-programming-workshop">https://tanmayhinge.github.io/competitive-programming-workshop</a>
 
 
 
