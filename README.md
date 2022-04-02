@@ -1,6 +1,5 @@
 # Competitive Programming Workshop
 
-View this text in a better format?<br>
 <a href="https://tanmayhinge.github.io/competitive-programming-workshop">https://tanmayhinge.github.io/competitive-programming-workshop</a>
 
 ---
@@ -9,7 +8,7 @@ View this text in a better format?<br>
 
 I conducted this workshop titled "Getting Started with Competitive Programming" on 09 April 2022 while I was in my final year of computer science engineering at Pillai College of Engineering. It was conducted in association with [CSI-PCE]().
 
-This document serves as a guide for anyone who wishes to get started with competitive programming as well as notes for the workshop.
+This document serves as a guide for anyone who wishes to get started with competitive programming as well as notes for the workshop participants.
 
 ---
 
@@ -57,4 +56,11 @@ STL provides you with a strong set of tools that make competitive programming le
 
 [for eg. array.cpp](array.cpp)
 
+Array is just a simple example that shows how powerful C++ STL is....
+
+We will see a few more as we progress ahead.....
+
+---
+
+## 3.Basic C++
 
