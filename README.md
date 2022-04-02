@@ -17,7 +17,7 @@ This document serves as a guide for anyone who wishes to get started with compet
 1. [Introduction to Competitive Programming](#1-introduction-to-competitive-programming)
 2. [Why C++?]()
 3. [Basic C++]()
-4. [How to approach problems in competitive programming]()
+4. [How to approach problems in competitive programming + Templates]()
 5. [Some basic datastructures using STL]()
 6. [Some basic algorithms using STL]()
 7. [Activity]()
@@ -63,4 +63,82 @@ We will see a few more as we progress ahead.....
 ---
 
 ## 3.Basic C++
+
+Explained in the workshop using a follow-along way of teaching for each concept where the participants wrote code for all the basics.
+
+To refer all those concepts again you may use this [YouTube Video](https://www.youtube.com/watch?v=vLnPwxZdW4Y&ab_channel=freeCodeCamp.org) from freecodecamp. Checkout the timestamps for individual explainations.
+
+---
+
+## 4. How to approach problems in competitive programming + Templates
+
+- How to read the problem statements
+- Various Errors
+- Test Cases
+- Templates
+
+
+#### How to read the problem statements
+
+Here I explained my way of approaching a competitive programming problem. Various users may develop their own way of solving as they progress.
+
+My way of approaching a problem is as follows:
+
+Example take this [problem](https://www.codechef.com/problems/INSTNOODLE) from CodeChef
+
+Here I would directly skip to the Input and Output format part rather than reading the whole "story" behind the problem.
+
+Then I would go through the explaination. 
+
+If at this point I have not understood the problem, I would then and only then read the first few lines where they give more context about the problem...
+
+For starters, you may want to read those lines but as you progress you would start to ignore them by habit....
+
+#### Various Errors
+
+- Compilation Error
+- Runtime Error
+- Time Limit Error
+
+#### Test Cases
+
+A test case consists of an input to the code and an expected output.
+
+There are some hidden and some non-hidden test cases. 
+
+
+#### Templates
+
+Usually competitive programmers do not code everything from scratch. 
+We have some self defined macros, functions and variables that leaves us with only writing the logic during competitions. In most of the competitions, using a template is alright, however some may ban the use of those.
+
+It is important to understand C++ deeply before you use a very complex template. For now, this template is this best to begin with...
+
+<br>
+
+[template.cpp](template.cpp) (Non Commented Version)
+
+Commented version:
+```cpp
+#include<bits/stdc++.h> // includes all the header files needed for competitive programming
+#define ll long long int // so i only have to decalre as "ll a = 5" instead of "long long int a = 5"
+using namespace std; // declares that all the code will be in standard  namespace
+
+int main(){
+    ios_base::sync_with_stdio(false); // ignore for now
+    cin.tie(NULL); // ignore for now
+    
+    int t; // for no. of test cases
+          // take other static inputs here
+    cin>>t;
+    while(t--){ 
+        // main logic goes here
+    }
+    return 0;
+}
+```
+
+
+
+---
 
