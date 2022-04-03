@@ -15,9 +15,9 @@ This document serves as a guide for anyone who wishes to get started with compet
 ## Index of Contents
 
 1. [Introduction to Competitive Programming](#1-introduction-to-competitive-programming)
-2. [Why C++?]()
-3. [Basic C++]()
-4. [How to approach problems in competitive programming + Templates]()
+2. [Why C++?](#2-why-c)
+3. [Basic C++](#3basic-c)
+4. [How to approach problems in competitive programming + Templates](#4-how-to-approach-problems-in-competitive-programming--templates)
 5. [Some basic datastructures using STL]()
 6. [Some basic algorithms using STL]()
 7. [Activity]()
@@ -73,6 +73,8 @@ To refer all those concepts again you may use this [YouTube Video](https://www.y
 ---
 
 ## 4. How to approach problems in competitive programming + Templates
+
+https://www.codechef.com/practice?page=0&limit=20&sort_by=difficulty_rating&sort_order=asc&search=&start_rating=0&end_rating=999&topic=Basic+Programming&tags=
 
 - How to read the problem statements
 - Various Errors
