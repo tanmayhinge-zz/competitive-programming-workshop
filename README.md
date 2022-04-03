@@ -129,9 +129,6 @@ Commented version:
 using namespace std; // declares that all the code will be in standard  namespace
 
 int main(){
-    ios_base::sync_with_stdio(false); // ignore for now
-    cin.tie(NULL); // ignore for now
-    
     int t; // for no. of test cases
           // take other static inputs here
     cin>>t;
