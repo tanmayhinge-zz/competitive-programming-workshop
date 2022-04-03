@@ -64,6 +64,8 @@ We will see a few more as we progress ahead.....
 
 ## 3.Basic C++
 
+main function, header files, variables, datatypes, input, output, 
+
 Explained in the workshop using a follow-along way of teaching for each concept where the participants wrote code for all the basics.
 
 To refer all those concepts again you may use this [YouTube Video](https://www.youtube.com/watch?v=vLnPwxZdW4Y&ab_channel=freeCodeCamp.org) from freecodecamp. Checkout the timestamps for individual explainations.
