@@ -15,6 +15,11 @@ int main() {
     cout <<v1[0] <<endl; 
     
     // printing elements of vector
-    for (auto i = v1.begin(); i != v1.end(); ++i)
-    cout << ' ' << *i;
+    for (auto i = v1.begin(); i != v1.end(); ++i) // first way
+    cout << *i<<" ";
+    
+    cout<<endl;
+    
+    for(auto i : v1) // second way, note the for loop syntax
+    cout<<i<<" ";
 }
