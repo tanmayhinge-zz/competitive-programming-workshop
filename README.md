@@ -77,6 +77,7 @@ To refer all those concepts again you may use this [YouTube Video](https://www.y
 https://www.codechef.com/practice?page=0&limit=20&sort_by=difficulty_rating&sort_order=asc&search=&start_rating=0&end_rating=999&topic=Basic+Programming&tags=
 
 - How to read the problem statements
+- Testing your code before submitting
 - Various Errors
 - Test Cases
 - Templates
@@ -98,17 +99,24 @@ If at this point I have not understood the problem, I would then and only then r
 
 For starters, you may want to read those lines but as you progress you would start to ignore them by habit....
 
+#### Testing your code before submitting
+
+When you are done writing your code,
+You can put the "sample input" given in the problem to the "Custom Input" area of the platform and "Run" instead of submit to test the code.
+
+
 #### Various Errors
 
 - Compilation Error
 - Runtime Error
 - Time Limit Error
+- Failed Test Cases
 
 #### Test Cases
 
 A test case consists of an input to the code and an expected output.
 
-There are some hidden and some non-hidden test cases. 
+There are some hidden and some non-hidden test cases.
 
 
 #### Templates
