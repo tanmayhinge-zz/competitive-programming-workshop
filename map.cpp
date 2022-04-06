@@ -16,8 +16,11 @@ int main() {
     
     cout<<m['e']<<endl;
     
+    for(auto i: m) // printing a map
+    cout<<i.first<<" "<<i.second<<endl;
+    
     m.clear(); // empties the map
     
     cout<<m.empty()<<endl; // returns 1 if empty and 0 if not empty
-    
+
 }
