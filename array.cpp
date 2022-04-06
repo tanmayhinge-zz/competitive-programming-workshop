@@ -1,9 +1,3 @@
-// C++ syntax is explained in next chapter
-// if you are unable to understand the code here, feel free to skip for now
-// and just
-// keep in mind that STL is just pretty cool! and you'll soon understand
-// it too!
-
 // The array header file is part of STL which provides 
 // a lot of array operations such as array.size() 
 // which calculates the number of elements present in 

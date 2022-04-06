@@ -18,7 +18,7 @@ This document serves as a guide for anyone who wishes to get started with compet
 2. [Why C++?](#2-why-c)
 3. [Basic C++](#3basic-c)
 4. [How to approach problems in competitive programming + Templates](#4-how-to-approach-problems-in-competitive-programming--templates)
-5. [Some basic datastructures using STL]()
+5. [Some basic datastructures using STL](#5-some-basic-datastructures-using-stl)
 6. [Some basic algorithms using STL]()
 7. [Activity]()
 
@@ -143,3 +143,30 @@ int main(){
 
 ---
 
+# 5. Some basic datastructures using STL
+
+1. array.cpp
+
+```cpp
+
+#include<iostream>
+#include<array>
+
+using namespace std;
+int main()
+{
+	// Initializing the array elements
+	array<int,6> ar = {1, 2, 3, 4, 5, 6};
+
+	// Printing first element of array
+	cout << "First element of array is : ";
+	cout << ar.front() << endl;
+
+	// Printing last element of array
+	cout << "Last element of array is : ";
+	cout << ar.back() << endl;
+
+	return 0;
+
+}
+```
