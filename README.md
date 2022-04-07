@@ -153,28 +153,9 @@ int main(){
 
 # 5. Some basic datastructures using STL
 
-1. array.cpp
+# 6. Some basic algorithms using STL
 
-```cpp
+# 7. Activity
 
-#include<iostream>
-#include<array>
-
-using namespace std;
-int main()
-{
-	// Initializing the array elements
-	array<int,6> ar = {1, 2, 3, 4, 5, 6};
-
-	// Printing first element of array
-	cout << "First element of array is : ";
-	cout << ar.front() << endl;
-
-	// Printing last element of array
-	cout << "Last element of array is : ";
-	cout << ar.back() << endl;
-
-	return 0;
-
-}
+A short coding activity was conducted.
 ```
