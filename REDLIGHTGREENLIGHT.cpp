@@ -3,9 +3,7 @@
 using namespace std;
 
 int main(){
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    
+
     int t, n, k, shoot_count=0, a;
     cin>>t;
     while(t--){
