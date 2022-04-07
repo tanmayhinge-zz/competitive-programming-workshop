@@ -2,6 +2,12 @@
 
 using namespace std; // specifies that we are working in the "standard" namespace, so basically you dont need to write std:: before all the non native C code all the time i.e. cout, cin, endl etc...
 
+/*
+MULTI
+LINE
+COMMENT
+*/
+
 int main(){ // entry point for the program
     int a = 31; // integer declaration
     int b; // integer declaration

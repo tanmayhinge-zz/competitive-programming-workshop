@@ -30,7 +30,8 @@ Competitive Programming is a sport where you make use of logic, math, problem so
 
 Any programming language can be used for competitive programming but people generally use C++, Python and Java. C++ is the most used as well as preferred language by competitive programmers.
 
-In these notes, I am using C++. 
+In these notes and workshop, I am using C++. 
+
 In the workshop we used the Codechef online IDE. 
 
 If you need to set up a local environment you can refer this video ---> [YouTube Link](https://www.youtube.com/watch?v=CZ7Mf7qxbIU)
