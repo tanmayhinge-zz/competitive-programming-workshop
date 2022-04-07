@@ -21,6 +21,8 @@ int main()
 	cout << "Last element of array is : ";
 	cout << ar.back() << endl;
 
+    // try to output an array
+
 	return 0;
 
 }
