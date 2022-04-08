@@ -1,6 +1,6 @@
 This is a “follow along document” for all the participants
 
-Follow this document during the workshop, refer to this link - https://tanmayhinge.github.io/competitive-programming-workshop/  after the workshop.
+Follow this document during the workshop, refer to this link - [https://tanmayhinge.github.io/competitive-programming-workshop/](https://tanmayhinge.github.io/competitive-programming-workshop/)  after the workshop.
 
 1. [https://www.codechef.com](https://www.codechef.com/)
 
@@ -57,7 +57,12 @@ int main(){
 <br>
 <br>
 
-Backup Activity
+Forms:
+
+1. [CodeChef Usernames](https://docs.google.com/forms/d/e/1FAIpQLScykL4qJmO8CVHakAT6BECb93D3lITwn9kOgrQ78rJTljrEjQ/viewform?usp=sf_link)
+
+2. Backup Activity
+
 
 Takeaway Notes + Resources (will be made available by 10 April, 2022)
 
