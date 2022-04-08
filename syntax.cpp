@@ -40,6 +40,7 @@ int main(){ // entry point for the program
     }
     cout<<endl;
     cout<<endl;
+    
     for(auto i:d){
         cout<<i<<" ";
     }
