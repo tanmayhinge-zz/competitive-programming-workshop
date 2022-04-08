@@ -15,6 +15,8 @@ int main(){ // entry point for the program
     string s1 = "hello s1"; // C++ style string declaration
     string s2("hello s2");
     
+    bool test = 1>2;
+
     cout<<a; // output a variable
     cout<<endl; // output a new line
     cout<<"Hello World"; // output a string

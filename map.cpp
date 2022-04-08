@@ -7,7 +7,9 @@ int main() {
         {'b', 3},
         {'c', 0}
     };
+    
     m['d'] = 3; // adding new element to map
+    m['n'] = 3;
     cout<<m['d']<<endl;
     
     pair<char,int> p = {'e', 4};
