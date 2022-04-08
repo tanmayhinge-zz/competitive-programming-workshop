@@ -8,7 +8,7 @@
 
 I conducted this workshop titled "Getting Started with Competitive Programming" on 09 April 2022 while I was in my final year of computer science engineering at Pillai College of Engineering. It was conducted in association with [CSI-PCE]().
 
-This document serves as a guide for anyone who wishes to get started with competitive programming as well as notes for the workshop participants.
+This document serves as a guide for anyone who wishes to get started with competitive programming as well as takeaway notes for the workshop participants.
 
 ---
 
@@ -134,7 +134,6 @@ It is important to understand C++ deeply before you use a very complex template.
 Commented version:
 ```cpp
 #include<bits/stdc++.h> // includes all the header files needed for competitive programming
-#define ll long long int // so i only have to decalre as "ll a = 5" instead of "long long int a = 5"
 using namespace std; // declares that all the code will be in standard  namespace
 
 int main(){
@@ -148,8 +147,6 @@ int main(){
 }
 ```
 
-
-
 ---
 
 # 5. Some basic datastructures using STL
@@ -158,5 +155,5 @@ int main(){
 
 # 7. Activity
 
-A short coding activity was conducted.
-```
+A short contest hosted on CodeChef.
+
