@@ -2,13 +2,13 @@ This is a “follow along document” for all the participants
 
 Follow this document during the workshop, refer to this link - [https://tanmayhinge.github.io/competitive-programming-workshop/](https://tanmayhinge.github.io/competitive-programming-workshop/)  after the workshop.
 
-1. [https://www.codechef.com](https://www.codechef.com/)
+1.[https://www.codechef.com](https://www.codechef.com/)
 
-2. [https://www.codechef.com/ide](https://www.codechef.com/ide)
+2.[https://www.codechef.com/ide](https://www.codechef.com/ide)
 
-3. [https://www.codechef.com/problems/FLOW001](https://www.codechef.com/problems/FLOW001)
+3.[https://www.codechef.com/problems/FLOW001](https://www.codechef.com/problems/FLOW001)
 
-4. [Template](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/template.cpp)
+4.[Template](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/template.cpp)
 
 ```cpp
 #include<bits/stdc++.h>
@@ -26,31 +26,31 @@ int main(){
 }
 ```
 
-5. Fill the Bucket<br>
+5.Fill the Bucket<br>
 [Problem](https://www.codechef.com/problems/FBC)	[Solution](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/Fill%20the%20Bucket.cpp)
 
-6. Pass or Fail<br>
+6.Pass or Fail<br>
  [Problem](https://www.codechef.com/problems/PASSORFAIL) [Solution](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/PASSORFAIL.cpp)
 
-7. Highest Divisor<br>
+7.Highest Divisor<br>
 [Problem](https://www.codechef.com/problems/HDIVISR)	[Solution](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/HDIVISR.CPP)
 
-8. Turbo Sort<br>
+8.Turbo Sort<br>
 [Problem](https://www.codechef.com/problems/TSORT/)	[Solution](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/TSORT.cpp)
 
-9. The smallest pair<br>
+9.The smallest pair<br>
 [Problem](https://www.codechef.com/problems/SMPAIR)	[Solution](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/SMPAIR.cpp)
 
-10. Tyre<br>
+10.Tyre<br>
 [Problem](https://www.codechef.com/problems/TYRE)	[Solution](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/TYRE.cpp)
 
-11. RED LIGHT GREEN LIGHT<br>
+11.RED LIGHT GREEN LIGHT<br>
 [Problem](https://www.codechef.com/problems/DOLL/)	[Solution](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/REDLIGHTGREENLIGHT.cpp)
 
-12. Total Correct Solutions<br>
+12.Total Correct Solutions<br>
 [Problem](https://www.codechef.com/problems/TOTCRT)	[Solution](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/TOTCRT.cpp)
 
-13. Activity
+13.Activity
 
 
 <br>
