@@ -6,7 +6,7 @@ Follow this document during the workshop, refer to this link - [https://tanmayhi
 
 2.[https://www.codechef.com/ide](https://www.codechef.com/ide)
 
-3.[https://www.codechef.com/problems/FLOW001](https://www.codechef.com/problems/FLOW001)
+3.[INSTANT NOODLE](https://www.codechef.com/problems/INSTNOODLE)
 
 4.[Template](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/template.cpp)
 
