@@ -40,7 +40,7 @@ Once you get familiar, you may move to platforms such as CodeForces and AtCoder.
 
 I highly recommend you to follow this [video](https://www.youtube.com/watch?v=B31LgI4Y4DQ) by freecodecamp. This is probably the best explaination you will ever find on the internet.
 
-More resources will be shared by Rahul here later.
+More resources will be shared by Rahul here later in this within few days in this [repository](https://github.com/rahulmaurya-Dev/Competitive-programming/blob/main/README.md)
 
 ### Algorithms
 
