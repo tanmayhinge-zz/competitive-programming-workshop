@@ -58,6 +58,8 @@ int main(){
 
 16.[Doubly Ended Queue Without STL](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/deque_wto_STL.cpp)
 
+17.[Cheat Sheet](https://hackingcpp.com/cpp/cheat_sheets.html#hfold3a)
+
 <br>
 <br>
 <br>
