@@ -158,5 +158,5 @@ int main(){
 
 # 7. Activity
 
-A short contest hosted on CodeChef.
+A short contest was hosted on CodeChef.
 
