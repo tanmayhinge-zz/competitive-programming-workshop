@@ -4,7 +4,17 @@
 
 Special thanks to all the participants for taking their time and participating in the workshop with such an interest.
 
+---
+
 This page serves as a summary + notes for you guys.
+
+[Code Repository](https://github.com/tanmayhinge/competitive-programming-workshop)
+
+[Slides](https://docs.google.com/presentation/d/1NcBuB7fEFTwg6SCEGXQfnoBY-fy_hyeuommkpOJverE/edit?usp=sharing)
+
+[Homepage of this Website](https://tanmayhinge.github.io/competitive-programming-workshop/)
+
+---
 
 ### Basic C++
 
