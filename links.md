@@ -27,28 +27,28 @@ int main(){
 ```
 
 5.Fill the Bucket<br>
-[Problem](https://www.codechef.com/problems/FBC)&nbsp;&nbsp;&nbsp;&nbsp;	[Solution](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/Fill%20the%20Bucket.cpp)
+[Problem](https://www.codechef.com/problems/FBC)&nbsp;&nbsp;&nbsp;&nbsp;	[Solution]()
 
 6.Pass or Fail<br>
- [Problem](https://www.codechef.com/problems/PASSORFAIL)&nbsp;&nbsp;&nbsp;&nbsp; [Solution](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/PASSORFAIL.cpp)
+ [Problem](https://www.codechef.com/problems/PASSORFAIL)&nbsp;&nbsp;&nbsp;&nbsp; [Solution]()
 
 7.Highest Divisor<br>
-[Problem](https://www.codechef.com/problems/HDIVISR)&nbsp;&nbsp;&nbsp;&nbsp;	[Solution](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/HDIVISR.CPP)
+[Problem](https://www.codechef.com/problems/HDIVISR)&nbsp;&nbsp;&nbsp;&nbsp;	[Solution]()
 
 8.Turbo Sort<br>
-[Problem](https://www.codechef.com/problems/TSORT/)&nbsp;&nbsp;&nbsp;&nbsp;	[Solution](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/TSORT.cpp)
+[Problem](https://www.codechef.com/problems/TSORT/)&nbsp;&nbsp;&nbsp;&nbsp;	[Solution]()
 
 9.The smallest pair<br>
-[Problem](https://www.codechef.com/problems/SMPAIR)&nbsp;&nbsp;&nbsp;&nbsp;	[Solution](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/SMPAIR.cpp)
+[Problem](https://www.codechef.com/problems/SMPAIR)&nbsp;&nbsp;&nbsp;&nbsp;	[Solution]()
 
 10.Tyre<br>
-[Problem](https://www.codechef.com/problems/TYRE)&nbsp;&nbsp;&nbsp;&nbsp;	[Solution](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/TYRE.cpp)
+[Problem](https://www.codechef.com/problems/TYRE)&nbsp;&nbsp;&nbsp;&nbsp;	[Solution]()
 
 11.RED LIGHT GREEN LIGHT<br>
-[Problem](https://www.codechef.com/problems/DOLL/)&nbsp;&nbsp;&nbsp;&nbsp;	[Solution](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/REDLIGHTGREENLIGHT.cpp)
+[Problem](https://www.codechef.com/problems/DOLL/)&nbsp;&nbsp;&nbsp;&nbsp;	[Solution]()
 
 12.Total Correct Solutions<br>
-[Problem](https://www.codechef.com/problems/TOTCRT)&nbsp;&nbsp;&nbsp;&nbsp;	[Solution](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/TOTCRT.cpp)
+[Problem](https://www.codechef.com/problems/TOTCRT)&nbsp;&nbsp;&nbsp;&nbsp;	[Solution]()
 
 13.Activity
 
