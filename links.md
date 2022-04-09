@@ -52,6 +52,11 @@ int main(){
 
 13.Activity
 
+14.[Stack Without STL](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/Stack_Wto_STL.cpp)
+
+15.[Queue Without STL](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/Queue_wto_STL.cpp)
+
+16.[Doubly Ended Queue Without STL](https://github.com/tanmayhinge/competitive-programming-workshop/blob/main/deque_wto_STL.cpp)
 
 <br>
 <br>
