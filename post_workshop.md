@@ -12,7 +12,9 @@ This page serves as a summary + notes for you guys.
 
 [Slides](https://docs.google.com/presentation/d/1NcBuB7fEFTwg6SCEGXQfnoBY-fy_hyeuommkpOJverE/edit?usp=sharing)
 
-[Homepage of this Website](https://tanmayhinge.github.io/competitive-programming-workshop/)
+[Workshop Flow](https://tanmayhinge.github.io/competitive-programming-workshop/)
+
+[Link of Links](https://tanmayhinge.github.io/competitive-programming-workshop/links)
 
 ---
 
