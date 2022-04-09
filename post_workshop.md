@@ -16,6 +16,8 @@ This page serves as a summary + notes for you guys.
 
 [Link of Links](https://tanmayhinge.github.io/competitive-programming-workshop/links)
 
+[CodeChef Contest Link](https://www.codechef.com/CPWA2022)
+
 ---
 
 ### Basic C++
