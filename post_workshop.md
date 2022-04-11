@@ -49,31 +49,3 @@ Get this [book](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/
 Or follow this [Cheat Sheet](https://hackingcpp.com/cpp/cheat_sheets.html) for C++ specific DS and Algos.
 
 That's all from my side!
-
-<br>
-
-If you guys need any assistance/ doubts feel free to contact any one of us, do not spam.
-
----
-
-[Tanmay Hinge](https://www.linkedin.com/in/tanmayhinge/)
-
-WhatsApp --> 7304872010
-
-hingetanmay@gmail.com
-
----
-
-Rahul Maurya
-
-WhatsApp --> 9930892744
-
-mauryarahda18ce@student.mes.ac.in
-
----
-
-Aditya Nair
-
-WhatsApp --> 7304809040
-
-nairadisi18ce@student.mes.ac.in
